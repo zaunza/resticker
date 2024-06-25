@@ -1,4 +1,4 @@
-IMAGE=mazzolino/restic
+IMAGE=zaunza/restic
 ARCH=amd64
 
 default: image push manifest
